@@ -9,7 +9,7 @@ Built with **React** (Vite + TailwindCSS + DaisyUI) on the frontend and **FastAP
 ## 🚀 Overview
 
 This app is designed to help you "lifemaxx" — track growth across key dimensions of self-improvement:
-- 📈 Followers (Linkedin, IG, etc.)
+- 📈 Followers (LinkedIn, IG, etc.)
 - 💸 Financial milestones (income, savings, net worth)
 - 💪 Fitness (lifting stats, weight, bodyfat)
 - 🧠 Learning (books read, hours studied, etc.)
