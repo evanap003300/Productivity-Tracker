@@ -12,8 +12,7 @@ This app is designed to help you "lifemaxx" — track growth across key dimensio
 - 📈 Followers (LinkedIn, IG, etc.)
 - 💸 Financial milestones (income, savings, net worth)
 - 💪 Fitness (lifting stats, weight, bodyfat)
-- 🧠 Learning (books read, hours studied, etc.)
-- 🤝 Social and relationship goals
+- 🧠 Programming (hours spent programming, etc)
 
 It's a private dashboard meant for daily/weekly input and reflection — the kind of data you'd normally forget.
 
@@ -39,11 +38,8 @@ It's a private dashboard meant for daily/weekly input and reflection — the kin
 
 - [x] Add/update metrics across categories
 - [x] Clean dashboard with filter/sort
-- [ ] Visualization with charts (Recharts / Chart.js)
-- [ ] Habit streak tracking
-- [ ] Streak alerts / push notifications
-- [ ] Editable categories + dynamic goals
-- [ ] Login system
+- [x] Visualization with charts (Recharts / Chart.js)
+- [x] Login system
 
 ---
 
@@ -79,31 +75,10 @@ This project helps you become your own performance coach — setting goals, trac
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of the dashboard and forms here)*
-
 ---
 
-## 🧠 Long-Term Vision
-
-This is a personal prototype for a broader idea: a customizable self-optimization platform. The eventual vision includes:
-
-- Community features
-- AI reflection prompts
-- Visual goal timelines
-- Privacy-first data handling
-
----
 
 ## 🧊 Author
 
 **Evan Phillips**  
-Currently building cool tools, learning fast, and maxxing life.  
-📫 DM me on GitHub or email [you@example.com]
-
 ---
-
-## 📝 License
-
-MIT License.
